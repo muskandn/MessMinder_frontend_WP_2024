@@ -2,6 +2,10 @@
 import React from 'react';
 import Box from './components/box';
 const App:React.FC = () => {
+  
+
+  // link of all the pics have been added 
+  //need to change it and use path after downloading
   return (
     <>
     
