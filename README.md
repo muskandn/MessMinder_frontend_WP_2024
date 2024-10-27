@@ -17,7 +17,7 @@ The Mess Management System is a comprehensive solution designed to streamline va
         Notifications: Email notifications for updates on complaint status.
 
 - Menu: 
-        
+
         Weekly menu with daily meals, editable by mess committee members.
         Structure:
 
